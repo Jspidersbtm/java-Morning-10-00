@@ -1,6 +1,7 @@
 package com.csi.mousedesign;
 
-public class DellImpl implements IMouse {
+public class DellImpl implements IMouse 
+{
 
 	@Override
 	public void scrollUp() {
